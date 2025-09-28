@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**OnWh3lls/OnWh3lls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My GitHub contains private repositories with cybersecurity research projects including:
 
-Here are some ideas to get you started:
+- Phishing simulation frameworks and social engineering assessments
+  *Penetration testing methodologies and documentation  
+- Security awareness training development and analysis
+- Threat analysis and vulnerability research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These repositories are maintained as PRIVATE to prevent misuse by malicious actors and ensure responsible disclosure of security research.
+
+## For Employers & Hiring Managers
+
+I maintain a comprehensive portfolio of cybersecurity projects demonstrating:
+- End-to-end security testing capabilities
+- Professional documentation and reporting
+- Ethical research practices and responsible disclosure
+- Technical implementation and analysis skills
+
+
+
+Please contact me directly to arrange access to specific repositories relevant to your evaluation process.
+
+## Contact Information
+- **Email**: laurjosh225@gmail.com
+- **LinkedIn**: www.linkedin.com/in/josh-laur-276a14207
+
+---
+*All security research conducted under ethical guidelines with proper authorization*
